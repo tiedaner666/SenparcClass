@@ -1,0 +1,13 @@
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/bin/Debug/SenparcClass.service.dll
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/bin/Debug/SenparcClass.service.pdb
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/bin/Debug/Newtonsoft.Json.dll
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/bin/Debug/Senparc.Weixin.dll
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/bin/Debug/Senparc.Weixin.MP.dll
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/bin/Debug/Newtonsoft.Json.xml
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/bin/Debug/Senparc.Weixin.xml
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/bin/Debug/Senparc.Weixin.MP.xml
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/obj/Debug/SenparcClass.service.csprojAssemblyReference.cache
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/obj/Debug/SenparcClass.service.csproj.CoreCompileInputs.cache
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/obj/Debug/SenparcClass.service.csproj.CopyComplete
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/obj/Debug/SenparcClass.service.dll
+/Users/songtao/Documents/微信公众号小程序开发/Demo/SenparcClass/SenparcClass.service/obj/Debug/SenparcClass.service.pdb

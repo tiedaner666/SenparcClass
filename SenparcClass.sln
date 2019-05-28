@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenparcClass", "SenparcClass\SenparcClass.csproj", "{0A082316-B873-440B-B795-5991814E9DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenparcClass.service", "SenparcClass.service\SenparcClass.service.csproj", "{BA92F68F-DE91-4736-8503-308798E34AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A082316-B873-440B-B795-5991814E9DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A082316-B873-440B-B795-5991814E9DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A082316-B873-440B-B795-5991814E9DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A082316-B873-440B-B795-5991814E9DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA92F68F-DE91-4736-8503-308798E34AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA92F68F-DE91-4736-8503-308798E34AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA92F68F-DE91-4736-8503-308798E34AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA92F68F-DE91-4736-8503-308798E34AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
